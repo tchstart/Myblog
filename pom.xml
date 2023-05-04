@@ -8,7 +8,7 @@
 		<version>2.3.6.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>xyz.snwjas</groupId>
+	<groupId>com.tchstart</groupId>
 	<artifactId>myblog</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>MyBlog</name>
@@ -120,6 +120,12 @@
 					<include>**/*.xml</include>
 				</includes>
 				<filtering>false</filtering>
+			</resource>
+			<resource>
+				<directory>src/main/resources</directory>
+				<includes>
+					<include>**/*.yaml</include>
+				</includes>
 			</resource>
 		</resources>
 		<plugins>

@@ -3,9 +3,9 @@
 **传送门**
 
 - 预览地址：http://110.40.212.25/#/
-- 后台管理：[Github](https://github.com/tchstart/myblog) | [Gitee](https://gitee.com/snwjas/my-blog)
-- 后台前端：[Github](https://github.com/tchstart/MyBlog-Admin) | [Gitee](https://gitee.com/snwjas/my-blog-admin)
-- 前台前端：[Github](https://github.com/tchstart/MyBlog-App) | [Gitee](https://gitee.com/snwjas/my-blog-app)
+- 后台管理：[Github](https://github.com/tchstart/myblog) 
+- 后台前端：[Github](https://github.com/tchstart/MyBlog-Admin)
+- 前台前端：[Github](https://github.com/tchstart/MyBlog-App) 
 
 ## 项目介绍
 
