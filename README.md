@@ -3,17 +3,15 @@
 **传送门**
 
 - 预览地址：http://110.40.212.25/#/
-- 后台管理：[Github](https://github.com/snwjas/MyBlog) | [Gitee](https://gitee.com/snwjas/my-blog)
-- 后台前端：[Github](https://github.com/snwjas/MyBlog-Admin) | [Gitee](https://gitee.com/snwjas/my-blog-admin)
-- 前台前端：[Github](https://github.com/snwjas/MyBlog-App) | [Gitee](https://gitee.com/snwjas/my-blog-app)
+- 后台管理：[Github](https://github.com/tchstart/myblog) | [Gitee](https://gitee.com/snwjas/my-blog)
+- 后台前端：[Github](https://github.com/tchstart/MyBlog-Admin) | [Gitee](https://gitee.com/snwjas/my-blog-admin)
+- 前台前端：[Github](https://github.com/tchstart/MyBlog-App) | [Gitee](https://gitee.com/snwjas/my-blog-app)
 
 ## 项目介绍
 
 MyBlog主要是基于 SpringBoot + Vue 前后端分离开发的一款动态个人博客系统，主要功能有文章管理、分类管理、标签管理、附件管理、评论管理和友链管理等。学习 Java 也有一段时间了，这个是本人第一个真正意义上项目，希望借此项目锻炼自己编码能力，激励自己多写文章。
 
 `鸣谢`：本项目在诸多方面，特别是UI设计方面，借鉴学习了[Halo](https://halo.run/)。
-
-如果本项目对你有帮助，不妨点个***Star***，你的支持就是对我行动的最大鼓励！
 
 
 
@@ -86,7 +84,7 @@ MyBlog主要是基于 SpringBoot + Vue 前后端分离开发的一款动态个�
 
 ```java
 .|--src.main.java
-    |---xyz.snwjas.blog //源码
+    |---com.tchstart.blog //源码
         |---annotation //注解
         |---aspect //aop切入点
         |---config //配置

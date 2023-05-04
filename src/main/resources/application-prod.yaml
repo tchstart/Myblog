@@ -20,7 +20,7 @@ mybatis-plus:
     # log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
     default-enum-type-handler: com.baomidou.mybatisplus.extension.handlers.MybatisEnumTypeHandler
   mapper-locations:
-    - classpath:xyz/snwjas/blog/mapper/xml/*.xml
+    - classpath:com/tchstart/blog/mapper/xml/*.xml
 
 my-blog:
   doc-enable: false
